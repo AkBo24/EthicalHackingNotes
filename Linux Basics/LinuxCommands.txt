@@ -1,0 +1,25 @@
+Intermediate Commands:
+1. echo: replaces data in a file with the given regex (ie replaces the text in a file with the given text):
+        echo "some text" > file.extension
+2. cat: displays content in a file
+        cat file.extension
+3. nano:  opens text editor inside of terminal to edit a file (cntrl+o then enter to save the edits, cntrl+xn to quit)
+        nano file.extension
+4. apt-get: work with packages in the Linux command line. Use apt-get to install packages
+        apt-get
+5. 
+
+
+
+Basic Commands:
+
+1. ls: list current files in directory
+2. pwd: print current/working directory
+3. cd: change directory
+4. mkDir: make new directory
+5. rmDir: remove specified directory (rmDir directoryName)
+6. touch: creates a file (touch fileName.extension)
+7. man/--help: prints a manual of a command if available (man command)
+8. cp: copy file into another directory (cp file otherDirectory)
+9. mv: move this file into another directory (mv file otherDirectory)
+10. locate: find a file in the directory (locate file name; use -i to remove case sensititivy)
