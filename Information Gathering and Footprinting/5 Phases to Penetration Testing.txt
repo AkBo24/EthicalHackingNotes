@@ -1,0 +1,14 @@
+1. Footprinting/Reconnaissance: gather data of the host machine to be attacked
+    direct : hacker can send information (packets) to the host machine
+    passive: gather information through publicly available information (like search engines) 
+    Kali tools: theHarvester (https://tools.kali.org/information-gathering/theharvester)
+
+2. Scanning/Enumeration: Use scanners to detect if the machine is vulnerable to attacks
+    Kali Tools: nmap (https://tools.kali.org/information-gathering/nmap)
+    
+3. Exploitation: using a vulnerable machine to launch an attack
+    Kali Tools: ∆s based on the type of attack
+    
+4. Maintain Access: use the machine to continue attacking the network
+
+5. Cover Up Tracks: get rid of digital footprint
