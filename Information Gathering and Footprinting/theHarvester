@@ -1,0 +1,15 @@
+Section 16
+
+VM Username/password: root/admin
+
+to run theHarvester.py commands:
+  cd /usr/share/golismero/tools/theHarvester
+  ls (theHarvester.py should be highlighted in green)
+  ./theHarvester.py to run the python program
+  
+possible fields (in order)
+  -d: domain (ex: mas.bg.ac.rs)
+  -b: engine (google)
+  -l: limit results (500)
+  -f: file to write to (results.html)
+  
