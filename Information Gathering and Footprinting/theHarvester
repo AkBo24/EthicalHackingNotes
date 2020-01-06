@@ -2,15 +2,21 @@ Section 16
 
 VM Username/password: root/admin
 
+Harvester: gathers open source intelligence on a company/domain
+  can gather emails, ip, hostnames
+
 to run theHarvester.py commands:
   cd /usr/share/golismero/tools/theHarvester
   ls (theHarvester.py should be highlighted in green)
   ./theHarvester.py to run the python program
   
-possible fields (in order)
-  -d: domain (ex: mas.bg.ac.rs)
-  -b: engine (google)
+Example fields (in syntax order)
+  -d: domain (ex: mas.bg.ac.rs) (the domain to search)
+  -b: engine (google) (where to search the domain)
   -l: limit results (500)
-  -f: file to write to (results.html)
+  -f: file to write to (results.html); creates both a html and xml file
+  
+Other Interesting Fields:
+    -v to attack virtual hosts (ips resolves to a singular host ip)
   
 Youtube to learn more about theHarvester: https://www.youtube.com/watch?v=7XRRvrZsJ7o
