@@ -1,0 +1,12 @@
+Network - connection between various hosts and how they communicate
+
+hosts - any device with unique IP addresses and MAC address
+
+IP Address - Internet Protocol Address is a unique label listed to each internet connected device on a local (private) connected 
+             network and a public (external) network
+
+Router/Gateway - ntwork device acting as a terminal & filter for all traffic flowing in and out of the network
+
+Firewall - software that filters traffic based on preset rules
+
+Port - a number representing end point communication
