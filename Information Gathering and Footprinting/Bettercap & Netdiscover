@@ -1,0 +1,8 @@
+2 important commands: ping & traceroute
+  ping allows machine to send packets to host
+  traceroute lists the hosts that a packet follows to reach a host
+
+bettercap
+  net.show to show all hosts on a network
+  
+Netdiscover does the same thing and you can compare the scan compared to the bettercap
