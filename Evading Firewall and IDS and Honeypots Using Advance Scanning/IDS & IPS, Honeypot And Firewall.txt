@@ -1,0 +1,7 @@
+Firewall  – security software monitering & controlling traffic coming in and out of a network, filters based on predetermined 
+            rules
+
+IDS (Intrusion Dection System) / IPS(Intrusion Prevention System)
+            block malicious attempts/activity and is capable of tracking the attacker
+
+Honeypots - purposefully vulnerable machines (either virtual or physical) that logs any attacks performed on it
