@@ -1,0 +1,4 @@
+Nmap command tool: nmap
+
+Nmap ip address (command)
+  scans ports on machine 
