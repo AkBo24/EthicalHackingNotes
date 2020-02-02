@@ -1,4 +1,7 @@
 Nmap command tool: nmap
 
-Nmap ip address (command)
+nmap ip address (command)
   scans ports on machine 
+
+nmap -v -A  scanme.nmap.org 
+  scans the website
