@@ -1,0 +1,2 @@
+When attempting to bypass a firewall always spoof ip/mac address so that if you are caught, then you can continue the attack through another ip/mac address
+
